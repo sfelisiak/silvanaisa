@@ -48,6 +48,17 @@ Here are some ideas to get you started:
 <a href="#"><img border="0" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   </div>
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaisa&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silvanaisa&theme=buefy"/></td>
+    </tr>   
+</table>
+</cente
+
+r>  
+
 
 
 
