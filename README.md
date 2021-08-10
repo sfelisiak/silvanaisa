@@ -1,4 +1,7 @@
 ### Olá, sou Silvana Isa 👋
+![banner]()
+<img width="300px" align="left" src="profile-1-300x300.jpg" />
+
 
 <!--
 **silvanaisa/silvanaisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
