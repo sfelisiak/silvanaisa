@@ -51,9 +51,12 @@ Here are some ideas to get you started:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaisa&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silvanaisa&theme=buefy"/></td>
-    </tr>   
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaisa&hide=html&layout=compact&theme=outrun" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silvanaisa&theme=outrun"/></td>
+             <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silvanaisa&count_private=true"/></td>
+     <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=silvanaisa&show_icons=true?&theme=outrun"/></td>
+
+ </tr>   
 </table>
 </center>  
 
