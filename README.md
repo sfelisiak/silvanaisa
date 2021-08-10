@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner]()
 <a href="#"><img border="0" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href="#"><img border="0" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="#"><img border="0" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
@@ -45,9 +44,6 @@ Here are some ideas to get you started:
 <a href=""><img border="0" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="#"><img border="0" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   </div>
-  ![Silvanaisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvanaisa&show_icons=true&theme=radical)
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvanaisa&hide=html&layout=compact&theme=buefy" />
-
 
 
 
