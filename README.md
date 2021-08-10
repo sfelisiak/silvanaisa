@@ -1,5 +1,5 @@
 ### Olá, sou Silvana Isa 👋
-![banner]()
+![banner](https://github.com/silvanaisa/silvanaisa/blob/main/banner.jpg)
 <img width="300px" align="left" src="profile-1-300x300.jpg" />
 
 
